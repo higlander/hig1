@@ -1,6 +1,7 @@
 Este es un ejemplo para el repositorio
 FUNCION getUser (id: ENTERO):STRING
   j = id;
-  code line
-  code line 
+  code line2
+  code line 3
+  code line4
   Fin
